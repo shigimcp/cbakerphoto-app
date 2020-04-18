@@ -11,6 +11,7 @@
 <div class="masonryGrid">
     <ngx-masonry [options]="masonryOptions">
         <div ngxMasonryItem *ngFor="let picture of masonryImages">
+            <!-- {{ picture.Directory }}{{ picture.FileName }} -->
             <img src="{{ picture.Directory }}{{ picture.FileName }}" width="100%" draggable="false" />
         </div>
     </ngx-masonry>
