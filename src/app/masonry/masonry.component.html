@@ -1,0 +1,66 @@
+<!-- <h1>COMPONENT: masonry</h1> -->
+<!-- 
+<p style="padding: 13px;">
+    An Angular 9 example application that demonstrates how to use ng-masonry-layout<br>
+    (REF: <a href="https://github.com/wynfred/ngx-masonry">https://github.com/wynfred/ngx-masonry</a>)
+    (REF_NG: <a href="https://www.npmjs.com/package/ng-masonry-layout">https://www.npmjs.com/package/ng-masonry-layout</a>)
+</p>
+ -->
+<!-- 
+<mat-spinner *ngIf="womenItems.length === 0"></mat-spinner>
+
+<mat-card *ngFor="let women of womenItems" style="margin-top:10px;">
+    <mat-card-content>
+        <img src="{{ women.Directory }}{{ women.FileName }}" draggable="false" />
+    </mat-card-content>
+</mat-card>
+ -->
+<!-- 
+<ngx-masonry [options]="masonryOptions">
+    <ngx-masonry-item womenItems class="masonry-item" *ngFor="let women of womenItems">
+        {{ women.FileName }}
+        <img src="{{ women.Directory }}{{ women.FileName }}" draggable="false" />
+    </ngx-masonry-item>
+</ngx-masonry>
+ -->
+<!-- 
+<ngx-masonry [options]="masonryOptions" style="width: 100vw;">
+    <div ngxMasonryItem *ngFor="let women of womenItems" style="width: 25%;">
+        <img [src]="women" width="100%">
+        <img src="{{ women.Directory }}{{ women.FileName }}" width="100%" draggable="false" />
+    </div>
+</ngx-masonry>
+
+<button *ngIf="limit < 100" (click)="showMoreImages()">Show More Images</button>
+<button *ngIf="limit < 100" (click)="insertImage()">Insert Image</button>
+<button *ngIf="womenItems" (click)="removeImage()">Remove Image</button>
+<h2 *ngIf="limit >= 100">No More Images</h2>
+ -->
+
+<div class="masonryGrid">
+    <!-- <ngx-masonry [options]="masonryOptions" style="width: 90vw;"> -->
+        <!-- <div ngxMasonryItem *ngFor="let picture of masonryImages" style="width: 30%;"> -->
+    <ngx-masonry [options]="masonryOptions">
+        <div ngxMasonryItem *ngFor="let picture of masonryImages">
+            <!-- <img [src]="picture" width="100%"> -->
+            <img src="{{ picture.Directory }}{{ picture.FileName }}" width="100%" draggable="false" />
+            <!-- <img src="{{ women.Directory }}{{ women.FileName }}" width="100%" draggable="false" /> -->
+        </div>
+    </ngx-masonry>
+
+    <div class="masonryNav">
+        <div>
+            <!-- <button *ngIf="limit < 100" (click)="showMoreImages()">Show More Images</button> -->
+            <!-- <button *ngIf="limit < 100" (click)="insertImage()">Insert Image</button> -->
+            <!-- <button *ngIf="masonryImages" (click)="removeImage()">Remove Image</button> -->
+            <!-- <h2 *ngIf="limit >= 100">No More Images</h2> -->
+
+            <!-- <h2>{{ classicItems.length }}</h2> -->
+
+            <button *ngIf="limit < womenItems.length" (click)="showMoreImages()">Show More Images</button>
+            <!-- <button *ngIf="limit < womenItems.length" (click)="insertImage()">Insert Image</button> -->
+            <!-- <button *ngIf="masonryImages" (click)="removeImage()">Remove Image</button> -->
+            <h2 *ngIf="limit >= womenItems.length">No More Images</h2>
+        </div>
+    </div>
+</div>

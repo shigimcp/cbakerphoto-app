@@ -1,0 +1,35 @@
+<!-- <h1>COMPONENT: parse-csv</h1> -->
+
+<input type="file" #csvReader name="Upload CSV" id="txtFileUpload" (change)="uploadListener($event)" accept=".csv" />
+
+<ul>
+    <li>boom</li>
+    <li>classic</li>
+    <li>fitness</li>
+    <li>life</li>
+    <li>men</li>
+    <li>portraits</li>
+    <li>still</li>
+    <li>women</li>
+</ul>
+
+<table class="minimalistBlack" *ngIf="records.length > 0">
+    <thead>
+        <tr>
+            <th>Directory </th>
+            <th>FileName </th>
+            <th>ImageWidth </th>
+            <th>ImageHeight </th>
+            <th>MIMEType </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor="let record of records;let i = index;">
+            <td> <span>{{ record.Directory }}</span> </td>
+            <td> <span>{{ record.FileName }}</span> </td>
+            <td> <span>{{ record.ImageWidth }}</span> </td>
+            <td> <span>{{ record.ImageHeight }}</span> </td>
+            <td> <span>{{ record.MIMEType }}</span> </td>
+        </tr>
+    </tbody>
+</table>

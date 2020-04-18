@@ -1,0 +1,27 @@
+<!-- <h1>COMPONENT: home</h1> -->
+
+<p style="padding: 13px;">
+    An Angular 9 example application that demonstrates how to use HttpClient to consume REST APIs<br>
+    (REF: <a href="https://www.techiediaries.com/angular/angular-9-8-tutorial-by-example-rest-crud-apis-http-get-requests-with-httpclient">https://www.techiediaries.com/angular/angular-9-8-tutorial-by-example-rest-crud-apis-http-get-requests-with-httpclient</a>)
+</p>
+
+<div>
+    <button (click)="firstPage()" mat-button> First</button>
+    <button (click)="previousPage()" mat-button> Previous</button>
+    <button (click)="nextPage()" mat-button> Next</button>
+    <button (click)="lastPage()" mat-button> Last</button>
+</div>
+
+<div style="padding: 13px;">
+
+    <!-- <h1>{{ boom }}</h1> -->
+
+    <mat-spinner *ngIf="boom.length === 0"></mat-spinner>
+
+    <mat-card *ngFor="let boomImg of boom" style="margin-top:10px;">
+        <mat-card-content>
+            <img src="{{ boomImg.Directory }}{{ boomImg.FileName }}" draggable="false" />
+        </mat-card-content>
+    </mat-card>
+
+</div>

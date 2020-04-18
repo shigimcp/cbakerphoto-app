@@ -1,0 +1,96 @@
+
+// Custom Theming for Angular Material
+// For more information: https://material.angular.io/guide/theming
+@import '~@angular/material/theming';
+// Plus imports for other components in your app.
+
+// Include the common styles for Angular Material. We include this here so that you only
+// have to load a single css file for Angular Material in your app.
+// Be sure that you only ever include this mixin once!
+@include mat-core();
+
+// Define the palettes for your theme using the Material Design palettes available in palette.scss
+// (imported above). For each palette, you can optionally specify a default, lighter, and darker
+// hue. Available color palettes: https://material.io/design/color/
+$cbakerphoto-app-primary: mat-palette($mat-indigo);
+$cbakerphoto-app-accent: mat-palette($mat-pink, A200, A100, A400);
+
+// The warn palette is optional (defaults to red).
+$cbakerphoto-app-warn: mat-palette($mat-red);
+
+// Create the theme object (a Sass map containing all of the palettes).
+$cbakerphoto-app-theme: mat-light-theme($cbakerphoto-app-primary, $cbakerphoto-app-accent, $cbakerphoto-app-warn);
+
+// Include theme styles for core and each component used in your app.
+// Alternatively, you can import and @include the theme mixins for each component
+// that you are using.
+@include angular-material-theme($cbakerphoto-app-theme);
+
+/* You can add global styles to this file, and also import other style files */
+
+html, body {
+    // border: 2px solid #ff0000;
+    height: 100%;
+}
+
+body {
+    font-family: Roboto, "Helvetica Neue", sans-serif;
+
+    margin: 0;
+}
+
+.masonryGrid {
+    // border: 2px solid #ff0000;
+    // border: 0;
+    width: 100vw;
+    // margin: 0 auto;
+    margin: 70px auto 0 auto;
+
+    ngx-masonry {
+        // border: 2px solid #00ff00;
+        // border: 0;
+        width: 100%;
+        margin: 0 auto;
+        padding: 0;
+
+        div {
+            // border: 2px solid #0000ff;
+            // border: 0;
+            width: 33.333%;
+            margin: 0 0 -6px 0;
+            padding: 0;
+
+            img {
+                // border: 2px solid #ff00ff;
+                // border: 0;
+                width: 100%;
+                margin: 0;
+                padding: 0;
+
+                -webkit-user-select: none;
+                -khtml-user-select: none;
+                -moz-user-select: none;
+                -o-user-select: none;
+                user-select: none;
+            }
+        }
+    }
+
+    .masonryNav {
+        // border: 2px solid #ff0000;
+
+        text-align: center;
+
+        width: 50%;
+        height: 50px;
+
+        margin: 0 auto;
+        padding: 50px 0 100px 0;
+
+        button {
+            font-size: 20px;
+            height: 50px;
+            margin: 10px;
+        }
+    }
+}

@@ -1,0 +1,20 @@
+<!-- <h1>COMPONENT: classic</h1> -->
+
+<div class="masonryGrid">
+    <ngx-masonry [options]="masonryOptions">
+        <div ngxMasonryItem *ngFor="let picture of masonryImages">
+            <img src="{{ picture.Directory }}{{ picture.FileName }}" width="100%" draggable="false" />
+        </div>
+    </ngx-masonry>
+
+    <div class="masonryNav">
+        <div>
+            <!-- <h2>{{ classicItems.length }}</h2> -->
+
+            <button *ngIf="limit < classicItems.length" (click)="showMoreImages()">Show More Images</button>
+            <!-- <button *ngIf="limit < classicItems.length" (click)="insertImage()">Insert Image</button> -->
+            <!-- <button *ngIf="masonryImages" (click)="removeImage()">Remove Image</button> -->
+            <h2 *ngIf="limit >= classicItems.length">No More Images</h2>
+        </div>
+    </div>
+</div>

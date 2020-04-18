@@ -1,0 +1,33 @@
+<!-- <h1>COMPONENT: boom</h1> -->
+<!-- 
+<p style="padding: 13px;">
+    An Angular 9 example application that demonstrates how to use ng-masonry-layout<br>
+    (REF: <a href="https://github.com/wynfred/ngx-masonry">https://github.com/wynfred/ngx-masonry</a>)
+    (REF_NG: <a href="https://github.com/wynfred/ngx-masonry-demo">https://github.com/wynfred/ngx-masonry-demo</a>)
+</p>
+ -->
+
+
+<div class="masonryGrid">
+    <ngx-masonry [options]="masonryOptions">
+        <div ngxMasonryItem *ngFor="let picture of masonryImages">
+            <img src="{{ picture.Directory }}{{ picture.FileName }}" width="100%" draggable="false" />
+        </div>
+    </ngx-masonry>
+
+    <div class="masonryNav">
+        <div>
+            <!-- <button *ngIf="limit < 100" (click)="showMoreImages()">Show More Images</button> -->
+            <!-- <button *ngIf="limit < 100" (click)="insertImage()">Insert Image</button> -->
+            <!-- <button *ngIf="masonryImages" (click)="removeImage()">Remove Image</button> -->
+            <!-- <h2 *ngIf="limit >= 100">No More Images</h2> -->
+
+            <!-- <h2>{{ boomItems.length }}</h2> -->
+
+            <button *ngIf="limit < boomItems.length" (click)="showMoreImages()">Show More Images</button>
+            <!-- <button *ngIf="limit < boomItems.length" (click)="insertImage()">Insert Image</button> -->
+            <!-- <button *ngIf="masonryImages" (click)="removeImage()">Remove Image</button> -->
+            <h2 *ngIf="limit >= boomItems.length">No More Images</h2>
+        </div>
+    </div>
+</div>
