@@ -1,203 +1,203 @@
 {
     "men": [
         {
-            "Directory": "/assets/images/men/",
+            "Directory": "assets/images/men/",
             "FileName": "men01.jpg",
             "ImageWidth": 655,
             "ImageHeight": 900,
             "MIMEType": "image/jpeg"
         },
         {
-            "Directory": "/assets/images/men/",
+            "Directory": "assets/images/men/",
             "FileName": "men02.jpg",
             "ImageWidth": 655,
             "ImageHeight": 900,
             "MIMEType": "image/jpeg"
         },
         {
-            "Directory": "/assets/images/men/",
+            "Directory": "assets/images/men/",
             "FileName": "men03.jpg",
             "ImageWidth": 695,
             "ImageHeight": 900,
             "MIMEType": "image/jpeg"
         },
         {
-            "Directory": "/assets/images/men/",
+            "Directory": "assets/images/men/",
             "FileName": "men04.jpg",
             "ImageWidth": 655,
             "ImageHeight": 900,
             "MIMEType": "image/jpeg"
         },
         {
-            "Directory": "/assets/images/men/",
+            "Directory": "assets/images/men/",
             "FileName": "men05.jpg",
             "ImageWidth": 695,
             "ImageHeight": 900,
             "MIMEType": "image/jpeg"
         },
         {
-            "Directory": "/assets/images/men/",
+            "Directory": "assets/images/men/",
             "FileName": "men06.jpg",
             "ImageWidth": 695,
             "ImageHeight": 900,
             "MIMEType": "image/jpeg"
         },
         {
-            "Directory": "/assets/images/men/",
+            "Directory": "assets/images/men/",
             "FileName": "men07.jpg",
             "ImageWidth": 1256,
             "ImageHeight": 900,
             "MIMEType": "image/jpeg"
         },
         {
-            "Directory": "/assets/images/men/",
+            "Directory": "assets/images/men/",
             "FileName": "men08.jpg",
             "ImageWidth": 686,
             "ImageHeight": 900,
             "MIMEType": "image/jpeg"
         },
         {
-            "Directory": "/assets/images/men/",
+            "Directory": "assets/images/men/",
             "FileName": "men09.jpg",
             "ImageWidth": 695,
             "ImageHeight": 900,
             "MIMEType": "image/jpeg"
         },
         {
-            "Directory": "/assets/images/men/",
+            "Directory": "assets/images/men/",
             "FileName": "men10.jpg",
             "ImageWidth": 695,
             "ImageHeight": 900,
             "MIMEType": "image/jpeg"
         },
         {
-            "Directory": "/assets/images/men/",
+            "Directory": "assets/images/men/",
             "FileName": "men11.jpg",
             "ImageWidth": 695,
             "ImageHeight": 900,
             "MIMEType": "image/jpeg"
         },
         {
-            "Directory": "/assets/images/men/",
+            "Directory": "assets/images/men/",
             "FileName": "men12.jpg",
             "ImageWidth": 695,
             "ImageHeight": 900,
             "MIMEType": "image/jpeg"
         },
         {
-            "Directory": "/assets/images/men/",
+            "Directory": "assets/images/men/",
             "FileName": "men13.jpg",
             "ImageWidth": 695,
             "ImageHeight": 900,
             "MIMEType": "image/jpeg"
         },
         {
-            "Directory": "/assets/images/men/",
+            "Directory": "assets/images/men/",
             "FileName": "men14.jpg",
             "ImageWidth": 695,
             "ImageHeight": 900,
             "MIMEType": "image/jpeg"
         },
         {
-            "Directory": "/assets/images/men/",
+            "Directory": "assets/images/men/",
             "FileName": "men15.jpg",
             "ImageWidth": 695,
             "ImageHeight": 900,
             "MIMEType": "image/jpeg"
         },
         {
-            "Directory": "/assets/images/men/",
+            "Directory": "assets/images/men/",
             "FileName": "men16.jpg",
             "ImageWidth": 1351,
             "ImageHeight": 900,
             "MIMEType": "image/jpeg"
         },
         {
-            "Directory": "/assets/images/men/",
+            "Directory": "assets/images/men/",
             "FileName": "men17.jpg",
             "ImageWidth": 695,
             "ImageHeight": 900,
             "MIMEType": "image/jpeg"
         },
         {
-            "Directory": "/assets/images/men/",
+            "Directory": "assets/images/men/",
             "FileName": "men18.jpg",
             "ImageWidth": 634,
             "ImageHeight": 900,
             "MIMEType": "image/jpeg"
         },
         {
-            "Directory": "/assets/images/men/",
+            "Directory": "assets/images/men/",
             "FileName": "men19.jpg",
             "ImageWidth": 1132,
             "ImageHeight": 900,
             "MIMEType": "image/jpeg"
         },
         {
-            "Directory": "/assets/images/men/",
+            "Directory": "assets/images/men/",
             "FileName": "men20.jpg",
             "ImageWidth": 695,
             "ImageHeight": 900,
             "MIMEType": "image/jpeg"
         },
         {
-            "Directory": "/assets/images/men/",
+            "Directory": "assets/images/men/",
             "FileName": "men21.jpg",
             "ImageWidth": 695,
             "ImageHeight": 900,
             "MIMEType": "image/jpeg"
         },
         {
-            "Directory": "/assets/images/men/",
+            "Directory": "assets/images/men/",
             "FileName": "men22.jpg",
             "ImageWidth": 1152,
             "ImageHeight": 900,
             "MIMEType": "image/jpeg"
         },
         {
-            "Directory": "/assets/images/men/",
+            "Directory": "assets/images/men/",
             "FileName": "men23.jpg",
             "ImageWidth": 695,
             "ImageHeight": 900,
             "MIMEType": "image/jpeg"
         },
         {
-            "Directory": "/assets/images/men/",
+            "Directory": "assets/images/men/",
             "FileName": "men24.jpg",
             "ImageWidth": 695,
             "ImageHeight": 900,
             "MIMEType": "image/jpeg"
         },
         {
-            "Directory": "/assets/images/men/",
+            "Directory": "assets/images/men/",
             "FileName": "men25.jpg",
             "ImageWidth": 1300,
             "ImageHeight": 900,
             "MIMEType": "image/jpeg"
         },
         {
-            "Directory": "/assets/images/men/",
+            "Directory": "assets/images/men/",
             "FileName": "men26.jpg",
             "ImageWidth": 1433,
             "ImageHeight": 900,
             "MIMEType": "image/jpeg"
         },
         {
-            "Directory": "/assets/images/men/",
+            "Directory": "assets/images/men/",
             "FileName": "men27.jpg",
             "ImageWidth": 695,
             "ImageHeight": 900,
             "MIMEType": "image/jpeg"
         },
         {
-            "Directory": "/assets/images/men/",
+            "Directory": "assets/images/men/",
             "FileName": "men28.jpg",
             "ImageWidth": 689,
             "ImageHeight": 900,
             "MIMEType": "image/jpeg"
         },
         {
-            "Directory": "/assets/images/men/",
+            "Directory": "assets/images/men/",
             "FileName": "men29.jpg",
             "ImageWidth": 707,
             "ImageHeight": 900,

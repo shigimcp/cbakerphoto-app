@@ -1,301 +1,301 @@
 {
     "portraits": [
         {
-            "Directory": "/assets/images/portraits/",
+            "Directory": "assets/images/portraits/",
             "FileName": "portrait01.jpg",
             "ImageWidth": 695,
             "ImageHeight": 900,
             "MIMEType": "image/jpeg"
         },
         {
-            "Directory": "/assets/images/portraits/",
+            "Directory": "assets/images/portraits/",
             "FileName": "portrait02.jpg",
             "ImageWidth": 695,
             "ImageHeight": 900,
             "MIMEType": "image/jpeg"
         },
         {
-            "Directory": "/assets/images/portraits/",
+            "Directory": "assets/images/portraits/",
             "FileName": "portrait03.jpg",
             "ImageWidth": 655,
             "ImageHeight": 900,
             "MIMEType": "image/jpeg"
         },
         {
-            "Directory": "/assets/images/portraits/",
+            "Directory": "assets/images/portraits/",
             "FileName": "portrait04.jpg",
             "ImageWidth": 655,
             "ImageHeight": 900,
             "MIMEType": "image/jpeg"
         },
         {
-            "Directory": "/assets/images/portraits/",
+            "Directory": "assets/images/portraits/",
             "FileName": "portrait05.jpg",
             "ImageWidth": 736,
             "ImageHeight": 900,
             "MIMEType": "image/jpeg"
         },
         {
-            "Directory": "/assets/images/portraits/",
+            "Directory": "assets/images/portraits/",
             "FileName": "portrait06.jpg",
             "ImageWidth": 1106,
             "ImageHeight": 900,
             "MIMEType": "image/jpeg"
         },
         {
-            "Directory": "/assets/images/portraits/",
+            "Directory": "assets/images/portraits/",
             "FileName": "portrait07.jpg",
             "ImageWidth": 694,
             "ImageHeight": 900,
             "MIMEType": "image/jpeg"
         },
         {
-            "Directory": "/assets/images/portraits/",
+            "Directory": "assets/images/portraits/",
             "FileName": "portrait08.jpg",
             "ImageWidth": 695,
             "ImageHeight": 900,
             "MIMEType": "image/jpeg"
         },
         {
-            "Directory": "/assets/images/portraits/",
+            "Directory": "assets/images/portraits/",
             "FileName": "portrait09.jpg",
             "ImageWidth": 655,
             "ImageHeight": 900,
             "MIMEType": "image/jpeg"
         },
         {
-            "Directory": "/assets/images/portraits/",
+            "Directory": "assets/images/portraits/",
             "FileName": "portrait10.jpg",
             "ImageWidth": 1194,
             "ImageHeight": 900,
             "MIMEType": "image/jpeg"
         },
         {
-            "Directory": "/assets/images/portraits/",
+            "Directory": "assets/images/portraits/",
             "FileName": "portrait11.jpg",
             "ImageWidth": 695,
             "ImageHeight": 900,
             "MIMEType": "image/jpeg"
         },
         {
-            "Directory": "/assets/images/portraits/",
+            "Directory": "assets/images/portraits/",
             "FileName": "portrait12.jpg",
             "ImageWidth": 695,
             "ImageHeight": 900,
             "MIMEType": "image/jpeg"
         },
         {
-            "Directory": "/assets/images/portraits/",
+            "Directory": "assets/images/portraits/",
             "FileName": "portrait13.jpg",
             "ImageWidth": 695,
             "ImageHeight": 900,
             "MIMEType": "image/jpeg"
         },
         {
-            "Directory": "/assets/images/portraits/",
+            "Directory": "assets/images/portraits/",
             "FileName": "portrait14.jpg",
             "ImageWidth": 695,
             "ImageHeight": 900,
             "MIMEType": "image/jpeg"
         },
         {
-            "Directory": "/assets/images/portraits/",
+            "Directory": "assets/images/portraits/",
             "FileName": "portrait15.jpg",
             "ImageWidth": 695,
             "ImageHeight": 900,
             "MIMEType": "image/jpeg"
         },
         {
-            "Directory": "/assets/images/portraits/",
+            "Directory": "assets/images/portraits/",
             "FileName": "portrait16.jpg",
             "ImageWidth": 695,
             "ImageHeight": 900,
             "MIMEType": "image/jpeg"
         },
         {
-            "Directory": "/assets/images/portraits/",
+            "Directory": "assets/images/portraits/",
             "FileName": "portrait17.jpg",
             "ImageWidth": 695,
             "ImageHeight": 900,
             "MIMEType": "image/jpeg"
         },
         {
-            "Directory": "/assets/images/portraits/",
+            "Directory": "assets/images/portraits/",
             "FileName": "portrait18.jpg",
             "ImageWidth": 695,
             "ImageHeight": 900,
             "MIMEType": "image/jpeg"
         },
         {
-            "Directory": "/assets/images/portraits/",
+            "Directory": "assets/images/portraits/",
             "FileName": "portrait19.jpg",
             "ImageWidth": 695,
             "ImageHeight": 900,
             "MIMEType": "image/jpeg"
         },
         {
-            "Directory": "/assets/images/portraits/",
+            "Directory": "assets/images/portraits/",
             "FileName": "portrait20.jpg",
             "ImageWidth": 695,
             "ImageHeight": 900,
             "MIMEType": "image/jpeg"
         },
         {
-            "Directory": "/assets/images/portraits/",
+            "Directory": "assets/images/portraits/",
             "FileName": "portrait21.jpg",
             "ImageWidth": 695,
             "ImageHeight": 900,
             "MIMEType": "image/jpeg"
         },
         {
-            "Directory": "/assets/images/portraits/",
+            "Directory": "assets/images/portraits/",
             "FileName": "portrait22.jpg",
             "ImageWidth": 1306,
             "ImageHeight": 900,
             "MIMEType": "image/jpeg"
         },
         {
-            "Directory": "/assets/images/portraits/",
+            "Directory": "assets/images/portraits/",
             "FileName": "portrait23.jpg",
             "ImageWidth": 721,
             "ImageHeight": 900,
             "MIMEType": "image/jpeg"
         },
         {
-            "Directory": "/assets/images/portraits/",
+            "Directory": "assets/images/portraits/",
             "FileName": "portrait24.jpg",
             "ImageWidth": 695,
             "ImageHeight": 900,
             "MIMEType": "image/jpeg"
         },
         {
-            "Directory": "/assets/images/portraits/",
+            "Directory": "assets/images/portraits/",
             "FileName": "portrait25.jpg",
             "ImageWidth": 695,
             "ImageHeight": 900,
             "MIMEType": "image/jpeg"
         },
         {
-            "Directory": "/assets/images/portraits/",
+            "Directory": "assets/images/portraits/",
             "FileName": "portrait26.jpg",
             "ImageWidth": 695,
             "ImageHeight": 900,
             "MIMEType": "image/jpeg"
         },
         {
-            "Directory": "/assets/images/portraits/",
+            "Directory": "assets/images/portraits/",
             "FileName": "portrait27.jpg",
             "ImageWidth": 695,
             "ImageHeight": 900,
             "MIMEType": "image/jpeg"
         },
         {
-            "Directory": "/assets/images/portraits/",
+            "Directory": "assets/images/portraits/",
             "FileName": "portrait28.jpg",
             "ImageWidth": 695,
             "ImageHeight": 900,
             "MIMEType": "image/jpeg"
         },
         {
-            "Directory": "/assets/images/portraits/",
+            "Directory": "assets/images/portraits/",
             "FileName": "portrait29.jpg",
             "ImageWidth": 695,
             "ImageHeight": 900,
             "MIMEType": "image/jpeg"
         },
         {
-            "Directory": "/assets/images/portraits/",
+            "Directory": "assets/images/portraits/",
             "FileName": "portrait30.jpg",
             "ImageWidth": 695,
             "ImageHeight": 900,
             "MIMEType": "image/jpeg"
         },
         {
-            "Directory": "/assets/images/portraits/",
+            "Directory": "assets/images/portraits/",
             "FileName": "portrait31.jpg",
             "ImageWidth": 695,
             "ImageHeight": 900,
             "MIMEType": "image/jpeg"
         },
         {
-            "Directory": "/assets/images/portraits/",
+            "Directory": "assets/images/portraits/",
             "FileName": "portrait32.jpg",
             "ImageWidth": 695,
             "ImageHeight": 900,
             "MIMEType": "image/jpeg"
         },
         {
-            "Directory": "/assets/images/portraits/",
+            "Directory": "assets/images/portraits/",
             "FileName": "portrait33.jpg",
             "ImageWidth": 695,
             "ImageHeight": 900,
             "MIMEType": "image/jpeg"
         },
         {
-            "Directory": "/assets/images/portraits/",
+            "Directory": "assets/images/portraits/",
             "FileName": "portrait34.jpg",
             "ImageWidth": 695,
             "ImageHeight": 900,
             "MIMEType": "image/jpeg"
         },
         {
-            "Directory": "/assets/images/portraits/",
+            "Directory": "assets/images/portraits/",
             "FileName": "portrait35.jpg",
             "ImageWidth": 695,
             "ImageHeight": 900,
             "MIMEType": "image/jpeg"
         },
         {
-            "Directory": "/assets/images/portraits/",
+            "Directory": "assets/images/portraits/",
             "FileName": "portrait36.jpg",
             "ImageWidth": 1260,
             "ImageHeight": 900,
             "MIMEType": "image/jpeg"
         },
         {
-            "Directory": "/assets/images/portraits/",
+            "Directory": "assets/images/portraits/",
             "FileName": "portrait37.jpg",
             "ImageWidth": 1260,
             "ImageHeight": 900,
             "MIMEType": "image/jpeg"
         },
         {
-            "Directory": "/assets/images/portraits/",
+            "Directory": "assets/images/portraits/",
             "FileName": "portrait38.jpg",
             "ImageWidth": 1323,
             "ImageHeight": 900,
             "MIMEType": "image/jpeg"
         },
         {
-            "Directory": "/assets/images/portraits/",
+            "Directory": "assets/images/portraits/",
             "FileName": "portrait39.jpg",
             "ImageWidth": 673,
             "ImageHeight": 900,
             "MIMEType": "image/jpeg"
         },
         {
-            "Directory": "/assets/images/portraits/",
+            "Directory": "assets/images/portraits/",
             "FileName": "portrait40.jpg",
             "ImageWidth": 1350,
             "ImageHeight": 900,
             "MIMEType": "image/jpeg"
         },
         {
-            "Directory": "/assets/images/portraits/",
+            "Directory": "assets/images/portraits/",
             "FileName": "portrait41.jpg",
             "ImageWidth": 1350,
             "ImageHeight": 900,
             "MIMEType": "image/jpeg"
         },
         {
-            "Directory": "/assets/images/portraits/",
+            "Directory": "assets/images/portraits/",
             "FileName": "portrait42.jpg",
             "ImageWidth": 1350,
             "ImageHeight": 900,
             "MIMEType": "image/jpeg"
         },
         {
-            "Directory": "/assets/images/portraits/",
+            "Directory": "assets/images/portraits/",
             "FileName": "portrait43.jpg",
             "ImageWidth": 1350,
             "ImageHeight": 900,
